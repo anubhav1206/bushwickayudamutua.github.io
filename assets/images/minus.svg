@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/Minus</title>
-    <g id="Icon/Minus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#000000" x="0" y="11.5" width="28" height="5"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" version="1.1" viewBox="0 0 28 28"><title>Icon/Minus</title><g id="Icon/Minus" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="28" height="5" x="0" y="11.5" fill="#000"/></g></svg>
